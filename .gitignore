@@ -1,0 +1,9 @@
+/tests/
+/REPO/
+.env
+*.log
+activity.log
+/vendor/
+certificates/
+/node_modules/
+/chat/
